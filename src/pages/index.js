@@ -26,7 +26,7 @@ const IndexPage = () => {
 							based in China. Please hire me if you find my skill-set relevant.
 						</p>
 						<DownloadButton
-							href="https://github.com/jinwei14/gatsby-github-pages/blob/main/Jinwei_Zhang_CV.pdf"
+							href="https://github.com/jinwei14/web/blob/main/Jinwei_Zhang_CV.pdf"
 							download
 							title="Resume"
 						>
